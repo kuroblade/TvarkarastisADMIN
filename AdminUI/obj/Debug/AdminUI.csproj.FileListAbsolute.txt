@@ -1,0 +1,33 @@
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\bin\Debug\AdminUI.exe.config
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\bin\Debug\AdminUI.exe
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\bin\Debug\AdminUI.pdb
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\obj\Debug\AdminUI.Form1.resources
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\obj\Debug\AdminUI.exe
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\obj\Debug\AdminUI.pdb
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\bin\Debug\MySql.Data.dll
+C:\Mokslai\2 kursas\C#\AdminUI\AdminUI\bin\Debug\MySql.Data.xml
+C:\Users\mantas\Desktop\AdminUI\AdminUI\bin\Debug\AdminUI.exe.config
+C:\Users\mantas\Desktop\AdminUI\AdminUI\obj\Debug\AdminUI.exe
+C:\Users\mantas\Desktop\AdminUI\AdminUI\obj\Debug\AdminUI.pdb
+C:\Users\mantas\Desktop\AdminUI\AdminUI\bin\Debug\AdminUI.exe
+C:\Users\mantas\Desktop\AdminUI\AdminUI\bin\Debug\AdminUI.pdb
+C:\Users\mantas\Desktop\AdminUI\AdminUI\bin\Debug\MySql.Data.dll
+C:\Users\mantas\Desktop\AdminUI\AdminUI\bin\Debug\MySql.Data.xml
+C:\Users\mantas\Desktop\AdminUI\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Users\mantas\Desktop\AdminUI\AdminUI\obj\Debug\AdminUI.Form1.resources
+C:\Users\mantas\Desktop\AdminUI\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+C:\Users\mantas\Desktop\AdminUI\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\bin\Debug\AdminUI.exe.config
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\obj\Debug\AdminUI.exe
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\obj\Debug\AdminUI.pdb
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\bin\Debug\AdminUI.exe
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\bin\Debug\AdminUI.pdb
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\bin\Debug\MySql.Data.dll
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\bin\Debug\MySql.Data.xml
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\obj\Debug\AdminUI.Form1.resources
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\obj\Debug\AdminUI.Properties.Resources.resources
+C:\Mokslai\2 kursas\C#\bbbbbbbbbbbbbb\AdminUI\AdminUI\obj\Debug\AdminUI.csproj.GenerateResource.Cache
